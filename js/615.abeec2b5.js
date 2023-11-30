@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkapp"]=self["webpackChunkapp"]||[]).push([[615],{5615:function(n,u,e){e.r(u),e.d(u,{default:function(){return c}});var r=function(){var n=this,u=n._self._c;return u("div",[n._v(" 我是蔡振超 ")])},t=[],a={name:"groudOrder"},l=a,p=e(1001),s=(0,p.Z)(l,r,t,!1,null,"6b145b0a",null),c=s.exports}}]);
